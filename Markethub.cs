@@ -859,13 +859,13 @@ namespace Ssigmaapi.Markethub.V1 {
       }
       if (other.tradesReq_ != null) {
         if (tradesReq_ == null) {
-          tradesReq_ = new global::Ssigmaapi.Markethub.V1.GetTradesRequest();
+          TradesReq = new global::Ssigmaapi.Markethub.V1.GetTradesRequest();
         }
         TradesReq.MergeFrom(other.TradesReq);
       }
       if (other.orderbooksReq_ != null) {
         if (orderbooksReq_ == null) {
-          orderbooksReq_ = new global::Ssigmaapi.Markethub.V1.GetOrderBooksRequest();
+          OrderbooksReq = new global::Ssigmaapi.Markethub.V1.GetOrderBooksRequest();
         }
         OrderbooksReq.MergeFrom(other.OrderbooksReq);
       }
@@ -882,16 +882,16 @@ namespace Ssigmaapi.Markethub.V1 {
             break;
           case 10: {
             if (tradesReq_ == null) {
-              tradesReq_ = new global::Ssigmaapi.Markethub.V1.GetTradesRequest();
+              TradesReq = new global::Ssigmaapi.Markethub.V1.GetTradesRequest();
             }
-            input.ReadMessage(tradesReq_);
+            input.ReadMessage(TradesReq);
             break;
           }
           case 18: {
             if (orderbooksReq_ == null) {
-              orderbooksReq_ = new global::Ssigmaapi.Markethub.V1.GetOrderBooksRequest();
+              OrderbooksReq = new global::Ssigmaapi.Markethub.V1.GetOrderBooksRequest();
             }
-            input.ReadMessage(orderbooksReq_);
+            input.ReadMessage(OrderbooksReq);
             break;
           }
         }
@@ -1043,13 +1043,13 @@ namespace Ssigmaapi.Markethub.V1 {
       }
       if (other.tradesRes_ != null) {
         if (tradesRes_ == null) {
-          tradesRes_ = new global::Ssigmaapi.Markethub.V1.GetTradesResponse();
+          TradesRes = new global::Ssigmaapi.Markethub.V1.GetTradesResponse();
         }
         TradesRes.MergeFrom(other.TradesRes);
       }
       if (other.orderbooksRes_ != null) {
         if (orderbooksRes_ == null) {
-          orderbooksRes_ = new global::Ssigmaapi.Markethub.V1.GetOrderBooksResponse();
+          OrderbooksRes = new global::Ssigmaapi.Markethub.V1.GetOrderBooksResponse();
         }
         OrderbooksRes.MergeFrom(other.OrderbooksRes);
       }
@@ -1067,16 +1067,16 @@ namespace Ssigmaapi.Markethub.V1 {
             break;
           case 10: {
             if (tradesRes_ == null) {
-              tradesRes_ = new global::Ssigmaapi.Markethub.V1.GetTradesResponse();
+              TradesRes = new global::Ssigmaapi.Markethub.V1.GetTradesResponse();
             }
-            input.ReadMessage(tradesRes_);
+            input.ReadMessage(TradesRes);
             break;
           }
           case 18: {
             if (orderbooksRes_ == null) {
-              orderbooksRes_ = new global::Ssigmaapi.Markethub.V1.GetOrderBooksResponse();
+              OrderbooksRes = new global::Ssigmaapi.Markethub.V1.GetOrderBooksResponse();
             }
-            input.ReadMessage(orderbooksRes_);
+            input.ReadMessage(OrderbooksRes);
             break;
           }
           case 26: {
@@ -1394,7 +1394,7 @@ namespace Ssigmaapi.Markethub.V1 {
       }
       if (other.trade_ != null) {
         if (trade_ == null) {
-          trade_ = new global::Ssigmaapi.Type.Trade();
+          Trade = new global::Ssigmaapi.Type.Trade();
         }
         Trade.MergeFrom(other.Trade);
       }
@@ -1438,9 +1438,9 @@ namespace Ssigmaapi.Markethub.V1 {
             break;
           case 10: {
             if (trade_ == null) {
-              trade_ = new global::Ssigmaapi.Type.Trade();
+              Trade = new global::Ssigmaapi.Type.Trade();
             }
-            input.ReadMessage(trade_);
+            input.ReadMessage(Trade);
             break;
           }
           case 17: {
@@ -1607,7 +1607,7 @@ namespace Ssigmaapi.Markethub.V1 {
       }
       if (other.market_ != null) {
         if (market_ == null) {
-          market_ = new global::Ssigmaapi.Type.Market();
+          Market = new global::Ssigmaapi.Type.Market();
         }
         Market.MergeFrom(other.Market);
       }
@@ -1625,9 +1625,9 @@ namespace Ssigmaapi.Markethub.V1 {
             break;
           case 10: {
             if (market_ == null) {
-              market_ = new global::Ssigmaapi.Type.Market();
+              Market = new global::Ssigmaapi.Type.Market();
             }
-            input.ReadMessage(market_);
+            input.ReadMessage(Market);
             break;
           }
           case 18: {
