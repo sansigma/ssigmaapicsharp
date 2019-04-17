@@ -29,8 +29,8 @@ namespace Ssigmaapi.Pashirirest.V1 {
             "a2V0LnByb3RvGh5zc2lnbWFhcGkvdHlwZS9vcmRlcmJvb2sucHJvdG8yXQoU",
             "UGFzaGlyaVJlc3RTZXJ2aWNlVjESRQoMR2V0T3JkZXJCb29rEhYuc3NpZ21h",
             "YXBpLnR5cGUuTWFya2V0Ghkuc3NpZ21hYXBpLnR5cGUuT3JkZXJCb29rIgAw",
-            "AUI6WjhnaXRodWIuY29tL2thaXRvMi9zc2lnbWFhcGlnby9wYXNoaXJpcmVz",
-            "dC92MTtwYXNoaXJpcmVzdGIGcHJvdG8z"));
+            "AUI8WjpnaXRodWIuY29tL3NhbnNpZ21hL3NzaWdtYWFwaWdvL3Bhc2hpcmly",
+            "ZXN0L3YxO3Bhc2hpcmlyZXN0YgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Ssigmaapi.Type.MarketReflection.Descriptor, global::Ssigmaapi.Type.OrderbookReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null));

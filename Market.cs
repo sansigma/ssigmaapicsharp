@@ -26,8 +26,8 @@ namespace Ssigmaapi.Type {
           string.Concat(
             "Chtzc2lnbWFhcGkvdHlwZS9tYXJrZXQucHJvdG8SDnNzaWdtYWFwaS50eXBl",
             "IioKBk1hcmtldBIOCgZzeW1ib2wYASABKAkSEAoIZXhjaGFuZ2UYAiABKAlC",
-            "MlowZ2l0aHViLmNvbS9rYWl0bzIvc3NpZ21hYXBpZ28vdHlwZS9tYXJrZXQ7",
-            "bWFya2V0YgZwcm90bzM="));
+            "NFoyZ2l0aHViLmNvbS9zYW5zaWdtYS9zc2lnbWFhcGlnby90eXBlL21hcmtl",
+            "dDttYXJrZXRiBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, new pbr::GeneratedClrTypeInfo[] {

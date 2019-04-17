@@ -29,8 +29,9 @@ namespace Ssigmaapi.Pashiriwebsocket.V1 {
             "Z21hYXBpL3R5cGUvbWFya2V0LnByb3RvGhpzc2lnbWFhcGkvdHlwZS90cmFk",
             "ZS5wcm90bzJcChlQYXNoaXJpV2Vic29ja2V0U2VydmljZVYxEj8KCUdldFRy",
             "YWRlcxIWLnNzaWdtYWFwaS50eXBlLk1hcmtldBoWLnNzaWdtYWFwaS50eXBl",
-            "LlRyYWRlcyIAMAFCRFpCZ2l0aHViLmNvbS9rYWl0bzIvc3NpZ21hYXBpZ28v",
-            "cGFzaGlyaXdlYnNvY2tldC92MTtwYXNoaXJpd2Vic29ja2V0YgZwcm90bzM="));
+            "LlRyYWRlcyIAMAFCRlpEZ2l0aHViLmNvbS9zYW5zaWdtYS9zc2lnbWFhcGln",
+            "by9wYXNoaXJpd2Vic29ja2V0L3YxO3Bhc2hpcml3ZWJzb2NrZXRiBnByb3Rv",
+            "Mw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Ssigmaapi.Type.MarketReflection.Descriptor, global::Ssigmaapi.Type.TradeReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null));

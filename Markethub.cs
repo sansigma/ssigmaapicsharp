@@ -72,8 +72,8 @@ namespace Ssigmaapi.Markethub.V1 {
             "Yi52MS5HZXRUcmFkZXNBbmRPcmRlckJvb2tzUmVxdWVzdBo2LnNzaWdtYWFw",
             "aS5tYXJrZXRodWIudjEuR2V0VHJhZGVzQW5kT3JkZXJCb29rc1Jlc3BvbnNl",
             "IjSC0+STAi4iKS92MS9tYXJrZXQtaHViL2dldC10cmFkZXMtYW5kLW9yZGVy",
-            "LWJvb2tzOgEqMAFCNlo0Z2l0aHViLmNvbS9rYWl0bzIvc3NpZ21hYXBpZ28v",
-            "bWFya2V0aHViL3YxO21hcmtldGh1YmIGcHJvdG8z"));
+            "LWJvb2tzOgEqMAFCOFo2Z2l0aHViLmNvbS9zYW5zaWdtYS9zc2lnbWFhcGln",
+            "by9tYXJrZXRodWIvdjE7bWFya2V0aHViYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Ssigmaapi.Type.MarketReflection.Descriptor, global::Ssigmaapi.Type.TradeReflection.Descriptor, global::Ssigmaapi.Type.OrderbookReflection.Descriptor, global::Google.Api.AnnotationsReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, new pbr::GeneratedClrTypeInfo[] {
